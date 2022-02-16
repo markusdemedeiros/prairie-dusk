@@ -1,0 +1,21 @@
+{
+    "name": "prairie-dusk",
+    "displayName": "Prairie Dusk",
+    "description": "Muted dark theme for vs code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Prairie Dusk",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Prairie Dusk-color-theme.json"
+            }
+        ]
+    }
+}
