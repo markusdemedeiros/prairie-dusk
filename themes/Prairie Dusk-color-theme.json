@@ -51,7 +51,7 @@
         "terminal.ansiBrightWhite": "#c5c8c6",
         "activityBarBadge.foreground": "#0d0d0d",
         "editorInlayHint.background": "#0d0d0d",
-        "editorInlayHint.foreground": "#707880",
+        "editorInlayHint.foreground": "#707880"
     },
     "tokenColors": [
         {
