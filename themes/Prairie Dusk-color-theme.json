@@ -49,7 +49,9 @@
         "terminal.ansiBrightCyan": "#8abeb7",
         "terminal.ansiWhite": "#707880",
         "terminal.ansiBrightWhite": "#c5c8c6",
-        "activityBarBadge.foreground": "#0d0d0d"
+        "activityBarBadge.foreground": "#0d0d0d",
+        "editorInlayHint.background": "#0d0d0d",
+        "editorInlayHint.foreground": "#707880",
     },
     "tokenColors": [
         {
@@ -60,7 +62,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#546E7A"
+                "foreground": "#707880"
             }
         },
         {
